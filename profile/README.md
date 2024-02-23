@@ -2,7 +2,7 @@
 
 [![Site](https://img.shields.io/badge/Site-zatsit.fr-orange.svg)](https://www.zatsit.fr)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-@zatsit-blue.svg)](https://www.linkedin.com/company/zatsit)
-[![Blog](https://img.shields.io/badge/Blog-zatsit.tech-red.svg)](https://zatsit-blog.web.app/)
+[![Blog](https://img.shields.io/badge/Blog-zatsit.tech-red.svg)](https://blog.zatsit.fr/)
 
 
 ## ✨ Bienvenue !
